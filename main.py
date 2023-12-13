@@ -9,8 +9,8 @@ def say_hello(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    name = 'this is elon musk'
-    
+    name = 'this is elon musk
+
     say_hello(name)
     up = to_upper(name)
     print(up)
